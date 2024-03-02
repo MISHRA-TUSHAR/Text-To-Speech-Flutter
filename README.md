@@ -1,4 +1,4 @@
-# text_to_speech
+This simple Flutter app enables users to input text and convert it into speech. It offers basic controls to start, stop, pause, and resume speech synthesis, along with language selection options for speech output.
 
 A new Flutter project.
 
